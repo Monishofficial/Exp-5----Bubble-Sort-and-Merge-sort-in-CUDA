@@ -1,6 +1,6 @@
 # Exp5 Bubble Sort and Merge sort in CUDA
 <h3>NAME: MONISH N</h3>
-<h3>REGISTER NO: 212223240097</h3>
+<h3>REGISTER NO: 2122232400978</h3>
 <h3>EX. NO: 5</h3>
 <h3>DATE:</h3>
 
